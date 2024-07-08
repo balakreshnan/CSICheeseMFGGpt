@@ -1,4 +1,4 @@
-# Cheese Manufacturing GPT usins Stream lit
+# Cheese Manufacturing GPT using Stream lit
 
 ## Introduction
 
