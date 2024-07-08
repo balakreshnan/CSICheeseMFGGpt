@@ -8,6 +8,8 @@
 - Using GPT 40 model
 - Using Talk to your data feature in Azure Open AI
 
+[![YouTube Video](https://img.youtube.com/vi/UOaKXG542GM/0.jpg)](https://youtu.be/UOaKXG542GM)
+
 ## Requirements
 
 - Azure Subscription
