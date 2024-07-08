@@ -1,4 +1,4 @@
-# CSICheeseMFGGpt
+# CSI Cheese Manufacturing GPT
 
 ## Introduction
 
