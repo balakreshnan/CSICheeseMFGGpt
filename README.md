@@ -5,6 +5,8 @@
 - Build a GPT to understand Cheese manufacuring regulations and best practises.
 - Cheese Manufacturing GPT
 
+[![YouTube Video](https://img.youtube.com/vi/UOaKXG542GM/0.jpg)](https://youtu.be/UOaKXG542GM)
+
 ![Cheese GPT](https://github.com/balakreshnan/CSICheeseMFGGpt/blob/main/csicheesemfggpt1.jpg "Cheese GPT")
 
 ## Overview
