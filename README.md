@@ -62,3 +62,9 @@ RAG Consumer: This indicates the consumption of the vectorized data by the end-u
 ## Conclusion
  
 This architecture leverages the capabilities of Azure OpenAI Studio for embedding and summarization, combined with AI search and App Services, to provide an efficient and user-friendly system for MFG Plant Floor Users. The integration ensures that users can easily search and retrieve relevant information from a large corpus of PDF documents, enhancing productivity and decision-making.
+
+![Cheese GPT](https://github.com/balakreshnan/CSICheeseMFGGpt/blob/main/images/cheesgpt1.jpg "Cheese GPT")
+
+![Cheese GPT](https://github.com/balakreshnan/CSICheeseMFGGpt/blob/main/images/cheesgpt2.jpg "Cheese GPT")
+
+![Cheese GPT](https://github.com/balakreshnan/CSICheeseMFGGpt/blob/main/images/cheesgpt3.jpg "Cheese GPT")
