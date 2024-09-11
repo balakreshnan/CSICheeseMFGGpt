@@ -68,3 +68,6 @@ This architecture leverages the capabilities of Azure OpenAI Studio for embeddin
 ![Cheese GPT](https://github.com/balakreshnan/CSICheeseMFGGpt/blob/main/images/cheesgpt2.jpg "Cheese GPT")
 
 ![Cheese GPT](https://github.com/balakreshnan/CSICheeseMFGGpt/blob/main/images/cheesgpt3.jpg "Cheese GPT")
+
+![Cheese GPT](https://github.com/balakreshnan/CSICheeseMFGGpt/blob/main/images/cheesgpt4.jpg "Cheese GPT")
+![Cheese GPT](https://github.com/balakreshnan/CSICheeseMFGGpt/blob/main/images/cheesgpt5.jpg "Cheese GPT")
