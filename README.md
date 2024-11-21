@@ -71,3 +71,13 @@ This architecture leverages the capabilities of Azure OpenAI Studio for embeddin
 
 ![Cheese GPT](https://github.com/balakreshnan/CSICheeseMFGGpt/blob/main/images/cheesgpt4.jpg "Cheese GPT")
 ![Cheese GPT](https://github.com/balakreshnan/CSICheeseMFGGpt/blob/main/images/cheesgpt5.jpg "Cheese GPT")
+
+## sample questions to ask
+
+- what are top 10 actions steps for food safety systems to raw milk cheese production? 
+- show me details on heat treatment? 
+- what are the somatic cell counts specification? 
+- what are the hazards condition in can cooling systems?
+- what are the cybersecurity configuration to keep the OT layer secured?
+- what PPE to use when cleaning cheese lines?
+- What if there is hazardous chemicals used?
