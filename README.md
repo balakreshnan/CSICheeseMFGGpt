@@ -7,9 +7,9 @@
 
 [![YouTube Video](https://img.youtube.com/vi/UOaKXG542GM/0.jpg)](https://youtu.be/UOaKXG542GM)
 
-![Cheese GPT](https://github.com/balakreshnan/CSICheeseMFGGpt/blob/main/csicheesemfggpt1.jpg "Cheese GPT")
+[CheeseGPT](https://csicheesemfggpt.azurewebsites.net/){:target="_blank"}
 
-https://csicheesemfggpt.azurewebsites.net/
+![Cheese GPT](https://github.com/balakreshnan/CSICheeseMFGGpt/blob/main/csicheesemfggpt1.jpg "Cheese GPT")
 
 ## Overview
 
