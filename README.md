@@ -9,6 +9,8 @@
 
 ![Cheese GPT](https://github.com/balakreshnan/CSICheeseMFGGpt/blob/main/csicheesemfggpt1.jpg "Cheese GPT")
 
+https://csicheesemfggpt.azurewebsites.net/
+
 ## Overview
 
 This document provides a detailed explanation of the architecture depicted in the diagram. The architecture integrates various components to utilize Azure OpenAI, embedding, and AI search capabilities to support Manufacturing (MFG) Plant Floor Users with efficient data retrieval and summarization.
