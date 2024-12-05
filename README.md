@@ -7,7 +7,7 @@
 
 [![YouTube Video](https://img.youtube.com/vi/UOaKXG542GM/0.jpg)](https://youtu.be/UOaKXG542GM)
 
-[CheeseGPT](https://csicheesemfggpt.azurewebsites.net/)
+<a href="[http://example.com/](https://csicheesemfggpt.azurewebsites.net/)" target="_blank">Cheese GPT</a>
 
 ![Cheese GPT](https://github.com/balakreshnan/CSICheeseMFGGpt/blob/main/csicheesemfggpt1.jpg "Cheese GPT")
 
